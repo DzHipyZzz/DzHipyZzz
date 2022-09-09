@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="left"> 
-  Hey! i'm Alifer. Im a <strong>Back-end Developer</strong>.<br>
-  Currently studying development in NodeJs and Typescript.
+  Hey! i'm Matheus. Im a <strong>Back-end Developer</strong>.<br>
+  Currently studying development in Python and Solidity.
 </p>
 
 <div style="display: inline_block">
