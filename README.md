@@ -22,10 +22,10 @@
 </p>
 
 <p align="left">
-  <a href="mailto:aliferass@hotmail.com.br" alt="Outook">
+  <a href="mailto:matheusrodrimota@hotmail.com" alt="Outook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
-  <a href="https://www.linkedin.com/in/alifer-santana-68a3b6169/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/matheus-rodrigues-58389b195/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  
